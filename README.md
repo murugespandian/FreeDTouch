@@ -2,7 +2,7 @@
 3D Touch API for Android
 
 # How do I use it?
-```
+```java
 FreeDTouch.OnFreeDTouchListener freeDTouchListener = new FreeDTouch.OnFreeDTouchListener() {
     @Override
     public void onFreeDTouch() {
